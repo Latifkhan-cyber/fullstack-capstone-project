@@ -1,3 +1,6 @@
+Execution directory: giftlink-backend/util/import-mongo
+Command executed: npm start
+
 $ npm start
 > giftlink-backend@1.0.0 start
 > node util/import-mongo.js
