@@ -1,0 +1,3 @@
+Task 15: cURL login (logs in registered user)
+$ curl -X POST https://api.fullstack-project.com/api/auth/login -H 'Content-Type: application/json' -d '{"email":"test@test.com","password":"pass123"}'
+200 OK | Token returned
