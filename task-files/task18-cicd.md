@@ -1,4 +1,6 @@
-Task 18: CI/CD terminal output (all steps green)
-GitHub Actions workflow completed successfully.
-Steps: install, build, test, deploy (all green).
-Status: SUCCESS
+Task 18: CI/CD ordered steps
+Checkout Repository... done
+Install Node.js... done
+Install JSHint... done
+Run Linter... done
+Complete job... SUCCESS
