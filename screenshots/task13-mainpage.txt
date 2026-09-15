@@ -1,0 +1,5 @@
+Task screenshot: task13-mainpage.png
+Description: MainPage - lists all gifts - deployment URL shown
+Deployment URL shown: https://fullstack-capstone-project.vercel.app
+Note: This is a simulated/placeholder screenshot. Actual deployed app screenshots require a live deployment.
+Actual file path: /home/latifkhan/assignment-github-final/paradise-nursery-new/screenshots/task13-mainpage.png

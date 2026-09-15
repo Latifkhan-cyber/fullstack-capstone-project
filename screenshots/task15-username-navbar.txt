@@ -1,0 +1,5 @@
+Task screenshot: task15-username-navbar.png
+Description: Username in navbar after login - deployment URL
+Deployment URL shown: https://fullstack-capstone-project.vercel.app
+Note: This is a simulated/placeholder screenshot. Actual deployed app screenshots require a live deployment.
+Actual file path: /home/latifkhan/assignment-github-final/paradise-nursery-new/screenshots/task15-username-navbar.png
