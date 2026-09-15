@@ -1,4 +1,7 @@
-Task 2: userstories.png screenshot (fullstack-capstone-project repo, 8+ stories, labels: new, icebox, technical debt, backlog)
-Verified: repo name shown, 8 stories visible, all 4 label types present
-URL: https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/screenshots/userstories.png
-Status: PASS
+Task 2: GitHub Issues screenshot (userstories.png)
+Repo: fullstack-capstone-project
+Image shows: .github/ISSUE_TEMPLATE/user-story.md template
+8 user stories required with visible labels: new, icebox, technical-debt, backlog
+Actual file: screenshots/userstories.png
+Note: Screenshot must show actual GitHub Issues page with 8 individual issues, each visibly labeled.
+Current PNG is a placeholder; real screenshot requires deployed repo with created issues.
