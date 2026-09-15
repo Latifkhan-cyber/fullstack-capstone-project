@@ -1,2 +1,2 @@
-Task 13: MainPage before login (lists all gifts) - cURL + full JSON output shown in curl-output/mainpage
-Repo: fullstack-capstone-project (reference)
+Task 13: curl-output/mainpage
+URL: https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/curl-output/mainpage

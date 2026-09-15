@@ -1,3 +1,2 @@
-Task 14: cURL register (registers user)
-$ curl -X POST https://api.fullstack-project.com/api/auth/register -H 'Content-Type: application/json' -d '{"email":"test@test.com","password":"pass123"}'
-201 Created | User registered
+Task 14: curl-output/register
+URL: https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/curl-output/register

@@ -1,2 +1,2 @@
-Task 4: db.js with await client.connect()
-https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/routes/db.js
+Task 4: models/db.js
+URL: https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/models/db.js
