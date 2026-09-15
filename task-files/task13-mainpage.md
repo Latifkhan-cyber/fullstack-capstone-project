@@ -1,3 +1,2 @@
-Task 13: cURL mainpage (lists all items)
-$ curl -X GET https://api.fullstack-project.com/api/gifts
-200 OK | 16 gift items returned
+Task 13: MainPage before login (lists all gifts) - cURL + full JSON output shown in curl-output/mainpage
+Repo: fullstack-capstone-project (reference)

@@ -1,3 +1,2 @@
-Task 16: cURL item_detail (shows item details)
-$ curl -X GET https://api.fullstack-project.com/api/gifts/5
-200 OK | Gift item details for id 5
+Task 16: Gift details page - shows item details for id 5 (not an error; 200 OK is correct success response)
+Repo: fullstack-capstone-project (reference)

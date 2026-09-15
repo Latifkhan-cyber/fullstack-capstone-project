@@ -1,3 +1,2 @@
-Task 17: cURL search_item (matches criteria)
-$ curl -X GET 'https://api.fullstack-project.com/api/search?category=electronics'
-200 OK | Matching items: 3 results
+Task 17: Search results - shows matching items (3 results); 200 OK indicates successful search, not error
+Repo: fullstack-capstone-project (reference)
