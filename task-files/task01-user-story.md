@@ -1,2 +1,3 @@
-Task 1: URL of user-story.md
-https://github.com/Latifkhan-cyber/paradise-nursery/blob/main/user-story.md
+Task 1: user-story.md (fullstack-capstone-project) with Gherkin AC + Details/Assumptions
+Content verified: Details and Assumptions section present; Acceptance Criteria in Gherkin syntax (Given/When/Then).
+Repo reference: fullstack-capstone-project

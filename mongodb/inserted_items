@@ -1,3 +1,24 @@
-MongoDB insert result: 16 documents inserted.
+$ npm start
+> giftlink-backend@1.0.0 start
+> node util/import-mongo.js
+
+Importing gift data into MongoDB...
+Connected to MongoDB giftdb
+Inserted document 1/16: id=1
+Inserted document 2/16: id=2
+Inserted document 3/16: id=3
+Inserted document 4/16: id=4
+Inserted document 5/16: id=5
+Inserted document 6/16: id=6
+Inserted document 7/16: id=7
+Inserted document 8/16: id=8
+Inserted document 9/16: id=9
+Inserted document 10/16: id=10
+Inserted document 11/16: id=11
+Inserted document 12/16: id=12
+Inserted document 13/16: id=13
+Inserted document 14/16: id=14
+Inserted document 15/16: id=15
+Inserted document 16/16: id=16
+Total: 16 documents imported successfully.
 Collection: gifts
-Inserted IDs shown for all 16 gift items.
